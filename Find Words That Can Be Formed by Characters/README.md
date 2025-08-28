@@ -1,4 +1,4 @@
-## Problem: https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/
+## Problem: https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/
 ### 
 You are given an array of strings words and a string chars.
 
